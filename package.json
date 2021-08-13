@@ -1,0 +1,23 @@
+{
+  "name": "sos2021-sep-jpcc",
+  "version": "1.0.0",
+  "description": "Preparando entrega Septiembre\r Loading ... 10%",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gti-sos/SOS2021-sep-jpcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gti-sos/SOS2021-sep-jpcc/issues"
+  },
+  "homepage": "https://github.com/gti-sos/SOS2021-sep-jpcc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
