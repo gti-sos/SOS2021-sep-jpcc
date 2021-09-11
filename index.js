@@ -6,11 +6,9 @@ var cors = require("cors");
 
 var request = require("request");
 
-var bodyParser = require("body-parser"); // M I L E S T O N E Nº 4
+var bodyParser = require("body-parser");
 
-var BASE_API_PATH = "/api/v1"; // M I L E S T O N E Nº 4
-
-var BASE_API_PATH_v2 = "/api/v2"; //M I L E S T O N E Nº 10
+var BASE_API_PATH_v2 = "/api/v2"; 
 
 var app = express();
 
