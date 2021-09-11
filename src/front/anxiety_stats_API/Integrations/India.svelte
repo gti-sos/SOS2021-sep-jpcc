@@ -117,6 +117,14 @@
 </svelte:head>
 
 <main>
+    <Nav>
+        <NavItem>
+            <NavLink href="/">Página Principal</NavLink>
+            </NavItem>
+            <NavItem>
+            <NavLink href="#/integrations">Integraciones</NavLink>
+            </NavItem>
+            </Nav> 
     <div id="myChart">Integración SOS: Covid India</div>
 </main>
 
