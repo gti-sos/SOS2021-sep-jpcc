@@ -24,24 +24,17 @@
         </NavItem>
 
         <NavItem>
-            <NavLink href="/#/integrations">Integraciones</NavLink>
+            <NavLink href="/#/info">Info</NavLink>
         </NavItem>
 
         <NavItem>
-            <NavLink href="/#/about">Vídeo</NavLink>
+            <NavLink href="/#/integrations">Integraciones</NavLink>
         </NavItem>
+
     </Nav>
 
-    <h1>SOS2021-SEP-JPCC</h1>
+    <h1>Resumen del Proyecto</h1>
 
-    <h2>Miembro de SOS2O21-SEP-JPCC</h2>
-    <Container>
-        <Col>
-            <a href="http://github.com/EsDeSepa">Jose Pablo Carrasco Cobos</a>
-        </Col>
-    </Container>
-    <p />
-    <h2>API</h2>
     <Container>
         <Col xs="auto">
             <Card class="mb-3">
@@ -51,20 +44,12 @@
                 <CardBody>
                     <CardSubtitle />
                     <CardText
-                        >Estadísticas acerca de los datos recogidos por ansiedad
-                        en las comunidades autónomas de España.</CardText
+                        >Video Explicativo sobre anxiety_stats</CardText
                     >
-                    <a
-                        href="https://sos2021-11.herokuapp.com/api/v2/anxiety_stats"
-                    >
-                        <Button color="success">API (v2)</Button></a
-                    >
-                    <a href="/#/anxiety_stats">
-                        <Button color="light">Interfaz de Ansiedad</Button>
-                    </a>
-                    <a
-                        href="https://documenter.getpostman.com/view/14948159/TzRXA6TK"
-                        ><Button color="success">Documentación v2</Button></a
+                    <a href="/#/integrations/anxiety_1">
+                        <Button type="button" class="btn btn-success"
+                            >Anxiety-stats</Button
+                        ></a
                     >
                 </CardBody>
                 <CardFooter
@@ -75,7 +60,7 @@
                 >
             </Card>
         </Col>
-    </Container>
+    </Container>    
 </main>
 
 <style>
