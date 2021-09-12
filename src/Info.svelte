@@ -55,7 +55,7 @@
                         en las comunidades autónomas de España.</CardText
                     >
                     <a
-                        href="https://sos2021-11.herokuapp.com/api/v2/anxiety_stats"
+                        href="https://sos2021-sep-jpcc.herokuapp.com/api/v2/anxiety_stats"
                     >
                         <Button color="success">API (v2)</Button></a
                     >
@@ -63,7 +63,7 @@
                         <Button color="light">Interfaz de Ansiedad</Button>
                     </a>
                     <a
-                        href="https://documenter.getpostman.com/view/14948159/TzRXA6TK"
+                        href="https://documenter.getpostman.com/view/14948159/U16kr5WQ"
                         ><Button color="success">Documentación v2</Button></a
                     >
                 </CardBody>

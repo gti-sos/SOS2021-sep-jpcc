@@ -2178,7 +2178,7 @@ var app = (function () {
     			attr_dev(button4, "type", "button");
     			attr_dev(button4, "class", "btn btn-light");
     			add_location(button4, file$z, 71, 37, 3197);
-    			attr_dev(a4, "href", "https://documenter.getpostman.com/view/14948159/TzRXA6TK");
+    			attr_dev(a4, "href", "https://documenter.getpostman.com/view/14948159/U16kr5WQ");
     			add_location(a4, file$z, 69, 38, 3055);
     			attr_dev(div5, "class", "mt-5");
     			add_location(div5, file$z, 61, 28, 2591);
@@ -11148,12 +11148,12 @@ var app = (function () {
     			t3 = space();
     			a2 = element("a");
     			create_component(button2.$$.fragment);
-    			attr_dev(a0, "href", "https://sos2021-11.herokuapp.com/api/v2/anxiety_stats");
+    			attr_dev(a0, "href", "https://sos2021-sep-jpcc.herokuapp.com/api/v2/anxiety_stats");
     			add_location(a0, file$d, 56, 20, 1414);
     			attr_dev(a1, "href", "/#/anxiety_stats");
-    			add_location(a1, file$d, 61, 20, 1640);
-    			attr_dev(a2, "href", "https://documenter.getpostman.com/view/14948159/TzRXA6TK");
-    			add_location(a2, file$d, 64, 20, 1792);
+    			add_location(a1, file$d, 61, 20, 1646);
+    			attr_dev(a2, "href", "https://documenter.getpostman.com/view/14948159/U16kr5WQ");
+    			add_location(a2, file$d, 64, 20, 1798);
     		},
     		m: function mount(target, anchor) {
     			mount_component(cardsubtitle, target, anchor);
@@ -11255,7 +11255,7 @@ var app = (function () {
     			a = element("a");
     			a.textContent = "Jose Pablo Carrasco Cobos";
     			attr_dev(a, "href", "https://github.com/EsDeSepa");
-    			add_location(a, file$d, 71, 20, 2101);
+    			add_location(a, file$d, 71, 20, 2107);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, t0, anchor);
@@ -13619,7 +13619,7 @@ var app = (function () {
     			t1 = space();
     			a = element("a");
     			create_component(button.$$.fragment);
-    			attr_dev(a, "href", "/#/integrations/anxiety_1");
+    			attr_dev(a, "href", "https://youtu.be/5CzTqzPglcY");
     			add_location(a, file$b, 48, 20, 1118);
     		},
     		m: function mount(target, anchor) {
@@ -13692,7 +13692,7 @@ var app = (function () {
     			a = element("a");
     			a.textContent = "Jose Pablo Carrasco Cobos";
     			attr_dev(a, "href", "https://github.com/EsDeSepa");
-    			add_location(a, file$b, 56, 20, 1446);
+    			add_location(a, file$b, 56, 20, 1449);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, t0, anchor);

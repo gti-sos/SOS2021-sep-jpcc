@@ -46,7 +46,7 @@
                     <CardText
                         >Video Explicativo sobre anxiety_stats</CardText
                     >
-                    <a href="/#/integrations/anxiety_1">
+                    <a href="https://youtu.be/5CzTqzPglcY">
                         <Button type="button" class="btn btn-success"
                             >Anxiety-stats</Button
                         ></a
