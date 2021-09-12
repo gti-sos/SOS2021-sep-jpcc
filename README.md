@@ -11,3 +11,5 @@
 
 -  **APIs**:
     - [https://SOS2021-sep-JPCC.herokuapp.com/api/v2/anxiety_stats](https://SOS2021-sep-JPCC.herokuapp.com/api/v2/anxiety_stats) (developed by [Jose Pablo Carrasco Cobos](https://github.com/EsDeSepa))
+
+- **POSTMAN (V2)**: [https://documenter.getpostman.com/view/14948159/U16kr5WQ] (https://documenter.getpostman.com/view/14948159/U16kr5WQ)
